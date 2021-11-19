@@ -1,0 +1,11 @@
+sendPhone:
+  path: /rodo/send/phone
+  controller: Selene\Modules\RodoModule\Http\Controllers\RodoController@sendPhone
+  methods:
+    - POST
+
+sendEmail:
+  path: /rodo/send/email
+  controller: Selene\Modules\RodoModule\Http\Controllers\RodoController@sendEmail
+  methods:
+    - POST

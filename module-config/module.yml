@@ -1,0 +1,7 @@
+name: RodoModule
+version: 1.0.0
+
+aclAnchor: RodoModule
+aclName: RODO
+
+routePrefix: RodoModule
